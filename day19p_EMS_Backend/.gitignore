@@ -1,5 +1,7 @@
 *.xml
 *.cmd
-/target/*
+target/
 *.java
 /src/*
+.md
+/nd/*
