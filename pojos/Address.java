@@ -1,4 +1,5 @@
 //this is for release for aug
+//this is form cmd for releaseaug
 package pojos;
 import javax.persistence.*;
 
